@@ -10,7 +10,7 @@ speler; tik het juiste getal aan op de linker- of rechteraftakking.
 
 ## Spelen
 
-Online: <https://jeroenvdw-bot.github.io/splitsracer/>
+Online: <https://jeroen-org.github.io/splitsracer/>
 
 Lokaal:
 
